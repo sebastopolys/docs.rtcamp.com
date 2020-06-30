@@ -1,4 +1,4 @@
-## Add or remove buddypress tabs
+## Add or remove buddypress tabs  (I can't see the section were the tab is added, just removed or edited.)
 
 ### Customize profile menus in BuddyPress
 
